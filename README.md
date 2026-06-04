@@ -1,2 +1,2 @@
 # SpinsSDP
-Repo for certification of Many Body properties of spin systems using NPA hierarchy 
+Repo for certification of ETH with NPA hierarchy
