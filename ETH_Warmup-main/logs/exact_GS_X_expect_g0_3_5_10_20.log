@@ -1,0 +1,23 @@
+[1/18] Starting N=5, J=1, g=0.3, index=0, eps=1e-02, NPA=1, scalar=True TI Block_diag
+Basis size: 61
+Getting eigenstuff...5
+Elapsed time: 0.0015 seconds
+True value: 0.15385151118376944
+GS: -5.113788665585296
+GS/N: -1.0227577331170592
+
+[6/18] Starting N=10, J=1, g=0.3, index=0, eps=1e-02, NPA=1, scalar=True TI Block_diag
+Basis size: 121
+Getting eigenstuff...10
+Elapsed time: 0.6931 seconds
+True value: 0.15175075578349423
+GS: -10.226296200955712
+GS/N: -1.0226296200955711
+
+[16/18] Starting N=20, J=1, g=0.3, index=0, eps=1e-02, NPA=1, scalar=True TI Block_diag
+Basis size: 241
+Getting eigenstuff...20
+Elapsed time: 13.5749 seconds
+True value: 0.15174727953091255
+GS: -20.45259029841282
+GS/N: -1.022629514920641

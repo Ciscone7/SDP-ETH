@@ -1,0 +1,689 @@
+
+[1/53] Starting N=5, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 61
+Solving moment SDP min...
+Total optimization variables: 156
+Elapsed time: 1.2644 seconds
+Solving moment SDP max...
+Total optimization variables: 156
+Elapsed time: 1.2471 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.6898391444826579
+Max bound moment matrix: 0.8897522343283645
+Moment matrix bound width: 1.999131e-01
+
+[2/53] Starting N=6, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 73
+Solving moment SDP min...
+Total optimization variables: 234
+Elapsed time: 2.1848 seconds
+Solving moment SDP max...
+Total optimization variables: 234
+Elapsed time: 2.1376 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7132601833500695
+Max bound moment matrix: 0.8785471072329654
+Moment matrix bound width: 1.652869e-01
+
+[3/53] Starting N=7, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 85
+Solving moment SDP min...
+Total optimization variables: 300
+Elapsed time: 3.1775 seconds
+Solving moment SDP max...
+Total optimization variables: 300
+Elapsed time: 3.1988 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.729181418079677
+Max bound moment matrix: 0.8702210389505348
+Moment matrix bound width: 1.410396e-01
+
+[4/53] Starting N=8, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 97
+Solving moment SDP min...
+Total optimization variables: 378
+Elapsed time: 4.7219 seconds
+Solving moment SDP max...
+Total optimization variables: 378
+Elapsed time: 4.5965 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7427301368966511
+Max bound moment matrix: 0.8642382660651908
+Moment matrix bound width: 1.215081e-01
+
+[5/53] Starting N=9, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 109
+Solving moment SDP min...
+Total optimization variables: 444
+Elapsed time: 6.2489 seconds
+Solving moment SDP max...
+Total optimization variables: 444
+Elapsed time: 6.1597 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7529816844310274
+Max bound moment matrix: 0.8598705336937263
+Moment matrix bound width: 1.068888e-01
+
+[6/53] Starting N=10, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 121
+Solving moment SDP min...
+Total optimization variables: 522
+Elapsed time: 8.0059 seconds
+Solving moment SDP max...
+Total optimization variables: 522
+Elapsed time: 8.0562 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7606185604356245
+Max bound moment matrix: 0.8566737484063763
+Moment matrix bound width: 9.605519e-02
+
+[7/53] Starting N=11, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 133
+Solving moment SDP min...
+Total optimization variables: 588
+Elapsed time: 11.3772 seconds
+Solving moment SDP max...
+Total optimization variables: 588
+Elapsed time: 10.4812 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7664231988282847
+Max bound moment matrix: 0.8543089205210732
+Moment matrix bound width: 8.788572e-02
+
+[8/53] Starting N=12, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 145
+Solving moment SDP min...
+Total optimization variables: 666
+Elapsed time: 12.9982 seconds
+Solving moment SDP max...
+Total optimization variables: 666
+Elapsed time: 12.8965 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7708292362579996
+Max bound moment matrix: 0.8525520170337745
+Moment matrix bound width: 8.172278e-02
+
+[9/53] Starting N=13, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 157
+Solving moment SDP min...
+Total optimization variables: 732
+Elapsed time: 15.7350 seconds
+Solving moment SDP max...
+Total optimization variables: 732
+Elapsed time: 15.0088 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7742137027765368
+Max bound moment matrix: 0.8512423306917496
+Moment matrix bound width: 7.702863e-02
+
+[10/53] Starting N=14, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 169
+Solving moment SDP min...
+Total optimization variables: 810
+Elapsed time: 18.0011 seconds
+Solving moment SDP max...
+Total optimization variables: 810
+Elapsed time: 19.2256 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7768453375841569
+Max bound moment matrix: 0.8502513650329373
+Moment matrix bound width: 7.340603e-02
+
+[11/53] Starting N=15, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 181
+Solving moment SDP min...
+Total optimization variables: 876
+Elapsed time: 23.3318 seconds
+Solving moment SDP max...
+Total optimization variables: 876
+Elapsed time: 23.2180 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7789062417865025
+Max bound moment matrix: 0.8494924027439692
+Moment matrix bound width: 7.058616e-02
+
+[12/53] Starting N=16, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 193
+Solving moment SDP min...
+Total optimization variables: 954
+Elapsed time: 24.8262 seconds
+Solving moment SDP max...
+Total optimization variables: 954
+Elapsed time: 24.3911 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7805203553903101
+Max bound moment matrix: 0.8489102678980963
+Moment matrix bound width: 6.838991e-02
+
+[13/53] Starting N=17, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 205
+Solving moment SDP min...
+Total optimization variables: 1020
+Elapsed time: 28.1178 seconds
+Solving moment SDP max...
+Total optimization variables: 1020
+Elapsed time: 28.5798 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7818195258345814
+Max bound moment matrix: 0.8484545930706451
+Moment matrix bound width: 6.663507e-02
+
+[14/53] Starting N=18, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 217
+Solving moment SDP min...
+Total optimization variables: 1098
+Elapsed time: 33.0616 seconds
+Solving moment SDP max...
+Total optimization variables: 1098
+Elapsed time: 32.2353 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.782856452982288
+Max bound moment matrix: 0.8480938910256334
+Moment matrix bound width: 6.523744e-02
+
+[15/53] Starting N=19, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 229
+Solving moment SDP min...
+Total optimization variables: 1164
+Elapsed time: 36.9619 seconds
+Solving moment SDP max...
+Total optimization variables: 1164
+Elapsed time: 36.6595 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7836952787514324
+Max bound moment matrix: 0.8478076666145905
+Moment matrix bound width: 6.411239e-02
+
+[16/53] Starting N=20, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 241
+Solving moment SDP min...
+Total optimization variables: 1242
+Elapsed time: 41.6685 seconds
+Solving moment SDP max...
+Total optimization variables: 1242
+Elapsed time: 40.6883 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7843819638707573
+Max bound moment matrix: 0.8475762164798215
+Moment matrix bound width: 6.319425e-02
+
+[17/53] Starting N=21, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 253
+Solving moment SDP min...
+Total optimization variables: 1308
+Elapsed time: 44.1995 seconds
+Solving moment SDP max...
+Total optimization variables: 1308
+Elapsed time: 44.5489 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.784953383832755
+Max bound moment matrix: 0.8473839718335399
+Moment matrix bound width: 6.243059e-02
+
+[18/53] Starting N=22, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 265
+Solving moment SDP min...
+Total optimization variables: 1386
+Elapsed time: 50.2540 seconds
+Solving moment SDP max...
+Total optimization variables: 1386
+Elapsed time: 50.8530 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7854219239447487
+Max bound moment matrix: 0.8472268082291521
+Moment matrix bound width: 6.180488e-02
+
+[19/53] Starting N=23, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 277
+Solving moment SDP min...
+Total optimization variables: 1452
+Elapsed time: 56.5380 seconds
+Solving moment SDP max...
+Total optimization variables: 1452
+Elapsed time: 56.8488 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7858181285745455
+Max bound moment matrix: 0.8470965473253914
+Moment matrix bound width: 6.127842e-02
+
+[20/53] Starting N=24, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 289
+Solving moment SDP min...
+Total optimization variables: 1530
+Elapsed time: 62.2868 seconds
+Solving moment SDP max...
+Total optimization variables: 1530
+Elapsed time: 62.5578 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7861499754999604
+Max bound moment matrix: 0.8469857499685439
+Moment matrix bound width: 6.083577e-02
+
+[21/53] Starting N=25, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 301
+Solving moment SDP min...
+Total optimization variables: 1596
+Elapsed time: 67.6565 seconds
+Solving moment SDP max...
+Total optimization variables: 1596
+Elapsed time: 68.6431 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7864334678830539
+Max bound moment matrix: 0.846890681087987
+Moment matrix bound width: 6.045721e-02
+
+[22/53] Starting N=26, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 313
+Solving moment SDP min...
+Total optimization variables: 1674
+Elapsed time: 76.3345 seconds
+Solving moment SDP max...
+Total optimization variables: 1674
+Elapsed time: 76.1412 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.786674067210995
+Max bound moment matrix: 0.8468105921032244
+Moment matrix bound width: 6.013652e-02
+
+[23/53] Starting N=27, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 325
+Solving moment SDP min...
+Total optimization variables: 1740
+Elapsed time: 84.7203 seconds
+Solving moment SDP max...
+Total optimization variables: 1740
+Elapsed time: 83.2461 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7868816507436985
+Max bound moment matrix: 0.8467403067650925
+Moment matrix bound width: 5.985866e-02
+
+[24/53] Starting N=28, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 337
+Solving moment SDP min...
+Total optimization variables: 1818
+Elapsed time: 88.7662 seconds
+Solving moment SDP max...
+Total optimization variables: 1818
+Elapsed time: 91.9567 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7870603800118375
+Max bound moment matrix: 0.8466792200142975
+Moment matrix bound width: 5.961884e-02
+
+[25/53] Starting N=29, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 349
+Solving moment SDP min...
+Total optimization variables: 1884
+Elapsed time: 97.9217 seconds
+Solving moment SDP max...
+Total optimization variables: 1884
+Elapsed time: 93.7603 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7872163074051967
+Max bound moment matrix: 0.84662684613019
+Moment matrix bound width: 5.941054e-02
+
+[26/53] Starting N=30, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 361
+Solving moment SDP min...
+Total optimization variables: 1962
+Elapsed time: 101.9722 seconds
+Solving moment SDP max...
+Total optimization variables: 1962
+Elapsed time: 101.8388 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7873495023987457
+Max bound moment matrix: 0.8465799713313185
+Moment matrix bound width: 5.923047e-02
+
+[27/53] Starting N=31, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 373
+Solving moment SDP min...
+Total optimization variables: 2028
+Elapsed time: 107.9226 seconds
+Solving moment SDP max...
+Total optimization variables: 2028
+Elapsed time: 108.5176 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7874698630251574
+Max bound moment matrix: 0.8465373797387378
+Moment matrix bound width: 5.906752e-02
+
+[28/53] Starting N=32, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 385
+Solving moment SDP min...
+Total optimization variables: 2106
+Elapsed time: 117.7381 seconds
+Solving moment SDP max...
+Total optimization variables: 2106
+Elapsed time: 125.2307 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.787573451648105
+Max bound moment matrix: 0.8465007315643538
+Moment matrix bound width: 5.892728e-02
+
+[29/53] Starting N=33, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 397
+Solving moment SDP min...
+Total optimization variables: 2172
+Elapsed time: 138.4787 seconds
+Solving moment SDP max...
+Total optimization variables: 2172
+Elapsed time: 126.0181 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7876649775628943
+Max bound moment matrix: 0.8464680189730506
+Moment matrix bound width: 5.880304e-02
+
+[30/53] Starting N=34, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 409
+Solving moment SDP min...
+Total optimization variables: 2250
+Elapsed time: 136.4205 seconds
+Solving moment SDP max...
+Total optimization variables: 2250
+Elapsed time: 139.6196 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7877463218695282
+Max bound moment matrix: 0.8464380266925323
+Moment matrix bound width: 5.869170e-02
+
+[31/53] Starting N=35, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 421
+Solving moment SDP min...
+Total optimization variables: 2316
+Elapsed time: 147.6072 seconds
+Solving moment SDP max...
+Total optimization variables: 2316
+Elapsed time: 145.5815 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7878193090799989
+Max bound moment matrix: 0.8464107508831757
+Moment matrix bound width: 5.859144e-02
+
+[32/53] Starting N=36, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 433
+Solving moment SDP min...
+Total optimization variables: 2394
+Elapsed time: 160.2346 seconds
+Solving moment SDP max...
+Total optimization variables: 2394
+Elapsed time: 162.1163 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7878827034266597
+Max bound moment matrix: 0.8463867147234321
+Moment matrix bound width: 5.850401e-02
+
+[33/53] Starting N=37, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 445
+Solving moment SDP min...
+Total optimization variables: 2460
+Elapsed time: 172.3816 seconds
+Solving moment SDP max...
+Total optimization variables: 2460
+Elapsed time: 171.7355 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7879413443206358
+Max bound moment matrix: 0.8463640418968672
+Moment matrix bound width: 5.842270e-02
+
+[34/53] Starting N=38, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 457
+Solving moment SDP min...
+Total optimization variables: 2538
+Elapsed time: 176.5135 seconds
+Solving moment SDP max...
+Total optimization variables: 2538
+Elapsed time: 178.1452 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7879925585342186
+Max bound moment matrix: 0.8463437938495845
+Moment matrix bound width: 5.835124e-02
+
+[35/53] Starting N=39, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 469
+Solving moment SDP min...
+Total optimization variables: 2604
+Elapsed time: 187.5138 seconds
+Solving moment SDP max...
+Total optimization variables: 2604
+Elapsed time: 196.7536 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7880393037008238
+Max bound moment matrix: 0.8463257036791578
+Moment matrix bound width: 5.828640e-02
+
+[36/53] Starting N=40, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 481
+Solving moment SDP min...
+Total optimization variables: 2682
+Elapsed time: 204.0057 seconds
+Solving moment SDP max...
+Total optimization variables: 2682
+Elapsed time: 208.4980 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7880807864684595
+Max bound moment matrix: 0.8463083161026433
+Moment matrix bound width: 5.822753e-02
+
+[37/53] Starting N=41, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 493
+Solving moment SDP min...
+Total optimization variables: 2748
+Elapsed time: 212.9088 seconds
+Solving moment SDP max...
+Total optimization variables: 2748
+Elapsed time: 219.3268 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7881191086619296
+Max bound moment matrix: 0.8462921450114907
+Moment matrix bound width: 5.817304e-02
+
+[38/53] Starting N=42, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 505
+Solving moment SDP min...
+Total optimization variables: 2826
+Elapsed time: 230.7643 seconds
+Solving moment SDP max...
+Total optimization variables: 2826
+Elapsed time: 228.9320 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7881531992126709
+Max bound moment matrix: 0.8462779755913347
+Moment matrix bound width: 5.812478e-02
+
+[39/53] Starting N=43, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 517
+Solving moment SDP min...
+Total optimization variables: 2892
+Elapsed time: 238.1194 seconds
+Solving moment SDP max...
+Total optimization variables: 2892
+Elapsed time: 241.8932 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.788184659505246
+Max bound moment matrix: 0.8462645902949258
+Moment matrix bound width: 5.807993e-02
+
+[40/53] Starting N=44, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 529
+Solving moment SDP min...
+Total optimization variables: 2970
+Elapsed time: 260.1013 seconds
+Solving moment SDP max...
+Total optimization variables: 2970
+Elapsed time: 260.1483 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7882123465368529
+Max bound moment matrix: 0.8462519266440306
+Moment matrix bound width: 5.803958e-02
+
+[41/53] Starting N=45, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 541
+Solving moment SDP min...
+Total optimization variables: 3036
+Elapsed time: 271.9367 seconds
+Solving moment SDP max...
+Total optimization variables: 3036
+Elapsed time: 266.8904 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.788238896624333
+Max bound moment matrix: 0.8462402531489747
+Moment matrix bound width: 5.800136e-02
+
+[42/53] Starting N=46, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 553
+Solving moment SDP min...
+Total optimization variables: 3114
+Elapsed time: 277.9359 seconds
+Solving moment SDP max...
+Total optimization variables: 3114
+Elapsed time: 279.8393 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7882621425905366
+Max bound moment matrix: 0.8462295307115205
+Moment matrix bound width: 5.796739e-02
+
+[43/53] Starting N=47, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 565
+Solving moment SDP min...
+Total optimization variables: 3180
+Elapsed time: 294.1327 seconds
+Solving moment SDP max...
+Total optimization variables: 3180
+Elapsed time: 298.3307 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7882838050429247
+Max bound moment matrix: 0.8462191229500183
+Moment matrix bound width: 5.793532e-02
+
+[44/53] Starting N=48, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 577
+Solving moment SDP min...
+Total optimization variables: 3258
+Elapsed time: 311.9825 seconds
+Solving moment SDP max...
+Total optimization variables: 3258
+Elapsed time: 309.9792 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7883037143809171
+Max bound moment matrix: 0.8462098610104376
+Moment matrix bound width: 5.790615e-02
+
+[45/53] Starting N=49, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 589
+Solving moment SDP min...
+Total optimization variables: 3324
+Elapsed time: 321.9025 seconds
+Solving moment SDP max...
+Total optimization variables: 3324
+Elapsed time: 323.4883 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.788322130498606
+Max bound moment matrix: 0.8462011357297323
+Moment matrix bound width: 5.787901e-02
+
+[46/53] Starting N=50, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 601
+Solving moment SDP min...
+Total optimization variables: 3402
+Elapsed time: 336.6192 seconds
+Solving moment SDP max...
+Total optimization variables: 3402
+Elapsed time: 340.9424 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7883384498899526
+Max bound moment matrix: 0.8461925535653646
+Moment matrix bound width: 5.785410e-02
+
+[47/53] Starting N=51, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 613
+Solving moment SDP min...
+Total optimization variables: 3468
+Elapsed time: 357.3648 seconds
+Solving moment SDP max...
+Total optimization variables: 3468
+Elapsed time: 357.1730 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7883544852080842
+Max bound moment matrix: 0.846184601824013
+Moment matrix bound width: 5.783012e-02
+
+[48/53] Starting N=52, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 625
+Solving moment SDP min...
+Total optimization variables: 3546
+Elapsed time: 374.0949 seconds
+Solving moment SDP max...
+Total optimization variables: 3546
+Elapsed time: 378.1032 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7883684849430245
+Max bound moment matrix: 0.846177475996142
+Moment matrix bound width: 5.780899e-02
+
+[49/53] Starting N=53, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 637
+Solving moment SDP min...
+Total optimization variables: 3612
+Elapsed time: 390.2901 seconds
+Solving moment SDP max...
+Total optimization variables: 3612
+Elapsed time: 394.7350 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7883819380285144
+Max bound moment matrix: 0.8461704825801829
+Moment matrix bound width: 5.778854e-02
+
+[50/53] Starting N=54, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 649
+Solving moment SDP min...
+Total optimization variables: 3690
+Elapsed time: 411.0958 seconds
+Solving moment SDP max...
+Total optimization variables: 3690
+Elapsed time: 413.4003 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7883939707546044
+Max bound moment matrix: 0.8461638688433959
+Moment matrix bound width: 5.776990e-02
+
+[51/53] Starting N=55, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 661
+Solving moment SDP min...
+Total optimization variables: 3756
+Elapsed time: 432.5287 seconds
+Solving moment SDP max...
+Total optimization variables: 3756
+Elapsed time: 432.3691 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7884055815127712
+Max bound moment matrix: 0.8461576764982204
+Moment matrix bound width: 5.775209e-02
+
+[52/53] Starting N=56, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 673
+Solving moment SDP min...
+Total optimization variables: 3834
+Elapsed time: 450.6283 seconds
+Solving moment SDP max...
+Total optimization variables: 3834
+Elapsed time: 451.5207 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7884160674843856
+Max bound moment matrix: 0.846151776288496
+Moment matrix bound width: 5.773571e-02
+
+[53/53] Starting N=57, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 685
+Solving moment SDP min...
+Total optimization variables: 3900
+Elapsed time: 464.9328 seconds
+Solving moment SDP max...
+Total optimization variables: 3900
+Elapsed time: 464.5716 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7884261317506802
+Max bound moment matrix: 0.846146144943503
+Moment matrix bound width: 5.772001e-02

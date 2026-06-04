@@ -1,0 +1,8 @@
+Ns = [7]
+Js = [1]  
+gs = [0.3]
+npa_levels = [1]
+indexes = [16]
+eps_list = [1e-8]
+npa_flag = [True]
+scalar_flag = [True]

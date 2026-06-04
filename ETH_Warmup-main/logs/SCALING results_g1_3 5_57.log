@@ -1,0 +1,810 @@
+[1/53] Starting N=5, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 61
+Solving moment SDP min...
+Total optimization variables: 156
+Elapsed time: 1.8815 seconds
+Solving moment SDP max...
+Total optimization variables: 156
+Elapsed time: 1.8009 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7753854528316846
+Max bound moment matrix: 0.7906597515317484
+Moment matrix bound width: 1.527430e-02
+
+[2/53] Starting N=6, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 73
+Solving moment SDP min...
+Total optimization variables: 234
+Elapsed time: 3.0538 seconds
+Solving moment SDP max...
+Total optimization variables: 234
+Elapsed time: 3.0592 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7669425517353909
+Max bound moment matrix: 0.8411430139130702
+Moment matrix bound width: 7.420046e-02
+
+[3/53] Starting N=7, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 85
+Solving moment SDP min...
+Total optimization variables: 300
+Elapsed time: 4.5348 seconds
+Solving moment SDP max...
+Total optimization variables: 300
+Elapsed time: 4.5879 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7605618555374978
+Max bound moment matrix: 0.8493299575297397
+Moment matrix bound width: 8.876810e-02
+
+[4/53] Starting N=8, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 97
+Solving moment SDP min...
+Total optimization variables: 378
+Elapsed time: 6.4061 seconds
+Solving moment SDP max...
+Total optimization variables: 378
+Elapsed time: 6.2345 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7678303892539222
+Max bound moment matrix: 0.8482794434185759
+Moment matrix bound width: 8.044905e-02
+
+[5/53] Starting N=9, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 109
+Solving moment SDP min...
+Total optimization variables: 444
+Elapsed time: 8.3283 seconds
+Solving moment SDP max...
+Total optimization variables: 444
+Elapsed time: 8.1461 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7741911847632954
+Max bound moment matrix: 0.8465159081483605
+Moment matrix bound width: 7.232472e-02
+
+[6/53] Starting N=10, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 121
+Solving moment SDP min...
+Total optimization variables: 522
+Elapsed time: 11.2341 seconds
+Solving moment SDP max...
+Total optimization variables: 522
+Elapsed time: 11.2084 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7792078687132505
+Max bound moment matrix: 0.8449031294420472
+Moment matrix bound width: 6.569526e-02
+
+[7/53] Starting N=11, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 133
+Solving moment SDP min...
+Total optimization variables: 588
+Elapsed time: 13.8748 seconds
+Solving moment SDP max...
+Total optimization variables: 588
+Elapsed time: 13.9373 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7831345066778083
+Max bound moment matrix: 0.8436464677816076
+Moment matrix bound width: 6.051196e-02
+
+[8/53] Starting N=12, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 145
+Solving moment SDP min...
+Total optimization variables: 666
+Elapsed time: 17.5157 seconds
+Solving moment SDP max...
+Total optimization variables: 666
+Elapsed time: 17.3751 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7860726206856375
+Max bound moment matrix: 0.8427232757485825
+Moment matrix bound width: 5.665066e-02
+
+[9/53] Starting N=13, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 157
+Solving moment SDP min...
+Total optimization variables: 732
+Elapsed time: 21.2186 seconds
+Solving moment SDP max...
+Total optimization variables: 732
+Elapsed time: 21.1309 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.788325646859654
+Max bound moment matrix: 0.8420217586533311
+Moment matrix bound width: 5.369611e-02
+
+[10/53] Starting N=14, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 169
+Solving moment SDP min...
+Total optimization variables: 810
+Elapsed time: 25.6719 seconds
+Solving moment SDP max...
+Total optimization variables: 810
+Elapsed time: 27.0415 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7900476215330968
+Max bound moment matrix: 0.841507762590292
+Moment matrix bound width: 5.146014e-02
+
+[11/53] Starting N=15, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 181
+Solving moment SDP min...
+Total optimization variables: 876
+Elapsed time: 30.5395 seconds
+Solving moment SDP max...
+Total optimization variables: 876
+Elapsed time: 29.9525 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7914038053841319
+Max bound moment matrix: 0.8411105690467978
+Moment matrix bound width: 4.970676e-02
+
+[12/53] Starting N=16, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 193
+Solving moment SDP min...
+Total optimization variables: 954
+Elapsed time: 36.2428 seconds
+Solving moment SDP max...
+Total optimization variables: 954
+Elapsed time: 35.7713 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7924945555306219
+Max bound moment matrix: 0.8408138708790736
+Moment matrix bound width: 4.831932e-02
+
+[13/53] Starting N=17, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 205
+Solving moment SDP min...
+Total optimization variables: 1020
+Elapsed time: 41.6917 seconds
+Solving moment SDP max...
+Total optimization variables: 1020
+Elapsed time: 41.7931 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7934586772629059
+Max bound moment matrix: 0.840579043912268
+Moment matrix bound width: 4.712037e-02
+
+[14/53] Starting N=18, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 217
+Solving moment SDP min...
+Total optimization variables: 1098
+Elapsed time: 48.2859 seconds
+Solving moment SDP max...
+Total optimization variables: 1098
+Elapsed time: 48.1329 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7943514014802963
+Max bound moment matrix: 0.8403983160398366
+Moment matrix bound width: 4.604691e-02
+
+[15/53] Starting N=19, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 229
+Solving moment SDP min...
+Total optimization variables: 1164
+Elapsed time: 55.8428 seconds
+Solving moment SDP max...
+Total optimization variables: 1164
+Elapsed time: 56.3423 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.795139240896931
+Max bound moment matrix: 0.8402508065491476
+Moment matrix bound width: 4.511157e-02
+
+[16/53] Starting N=20, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 241
+Solving moment SDP min...
+Total optimization variables: 1242
+Elapsed time: 64.5642 seconds
+Solving moment SDP max...
+Total optimization variables: 1242
+Elapsed time: 64.6448 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7957612714591322
+Max bound moment matrix: 0.8401321872821823
+Moment matrix bound width: 4.437092e-02
+
+[17/53] Starting N=21, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 253
+Solving moment SDP min...
+Total optimization variables: 1308
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #0 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #1 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #2 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #3 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #4 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #5 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #6 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #7 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #8 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #9 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #10 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #11 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #12 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #13 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #14 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #15 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #16 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #17 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #18 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #19 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #20 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Elapsed time: 73.7188 seconds
+Solving moment SDP max...
+Total optimization variables: 1308
+Elapsed time: 74.4732 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7962520889375228
+Max bound moment matrix: 0.8400320921447386
+Moment matrix bound width: 4.378000e-02
+
+[18/53] Starting N=22, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 265
+Solving moment SDP min...
+Total optimization variables: 1386
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #21 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Elapsed time: 84.9790 seconds
+Solving moment SDP max...
+Total optimization variables: 1386
+Elapsed time: 89.5272 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7966233529818039
+Max bound moment matrix: 0.8399507558836221
+Moment matrix bound width: 4.332740e-02
+
+[19/53] Starting N=23, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 277
+Solving moment SDP min...
+Total optimization variables: 1452
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #22 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Elapsed time: 98.9229 seconds
+Solving moment SDP max...
+Total optimization variables: 1452
+Elapsed time: 97.4169 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7969139201720893
+Max bound moment matrix: 0.839882395903893
+Moment matrix bound width: 4.296848e-02
+
+[20/53] Starting N=24, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 289
+Solving moment SDP min...
+Total optimization variables: 1530
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #23 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Elapsed time: 111.3063 seconds
+Solving moment SDP max...
+Total optimization variables: 1530
+Elapsed time: 111.6602 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7971435646660676
+Max bound moment matrix: 0.83982668592956
+Moment matrix bound width: 4.268312e-02
+
+[21/53] Starting N=25, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 301
+Solving moment SDP min...
+Total optimization variables: 1596
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #24 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Elapsed time: 125.5226 seconds
+Solving moment SDP max...
+Total optimization variables: 1596
+Elapsed time: 127.6803 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7973378601946017
+Max bound moment matrix: 0.8397792696749357
+Moment matrix bound width: 4.244141e-02
+
+[22/53] Starting N=26, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 313
+Solving moment SDP min...
+Total optimization variables: 1674
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #25 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Elapsed time: 141.9579 seconds
+Solving moment SDP max...
+Total optimization variables: 1674
+Elapsed time: 151.0492 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7975029462730556
+Max bound moment matrix: 0.8397401109417093
+Moment matrix bound width: 4.223716e-02
+
+[23/53] Starting N=27, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 325
+Solving moment SDP min...
+Total optimization variables: 1740
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #26 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Elapsed time: 178.6530 seconds
+Solving moment SDP max...
+Total optimization variables: 1740
+Elapsed time: 194.4119 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7976585947424649
+Max bound moment matrix: 0.8397057676638676
+Moment matrix bound width: 4.204717e-02
+
+[24/53] Starting N=28, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 337
+Solving moment SDP min...
+Total optimization variables: 1818
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #27 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Elapsed time: 212.5420 seconds
+Solving moment SDP max...
+Total optimization variables: 1818
+Elapsed time: 211.5340 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7978110038349926
+Max bound moment matrix: 0.8396763094906716
+Moment matrix bound width: 4.186531e-02
+
+[25/53] Starting N=29, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 349
+Solving moment SDP min...
+Total optimization variables: 1884
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #28 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Elapsed time: 231.8654 seconds
+Solving moment SDP max...
+Total optimization variables: 1884
+Elapsed time: 258.8141 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7979521703413729
+Max bound moment matrix: 0.8396495482809497
+Moment matrix bound width: 4.169738e-02
+
+[26/53] Starting N=30, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 361
+Solving moment SDP min...
+Total optimization variables: 1962
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #29 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Elapsed time: 275.7683 seconds
+Solving moment SDP max...
+Total optimization variables: 1962
+Elapsed time: 269.6400 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7980703063222857
+Max bound moment matrix: 0.8396258746268772
+Moment matrix bound width: 4.155557e-02
+
+[27/53] Starting N=31, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 373
+Solving moment SDP min...
+Total optimization variables: 2028
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #30 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Elapsed time: 208.9719 seconds
+Solving moment SDP max...
+Total optimization variables: 2028
+Elapsed time: 206.9629 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7981697652314325
+Max bound moment matrix: 0.8396041308763016
+Moment matrix bound width: 4.143437e-02
+
+[28/53] Starting N=32, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 385
+Solving moment SDP min...
+Total optimization variables: 2106
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #31 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Elapsed time: 217.0864 seconds
+Solving moment SDP max...
+Total optimization variables: 2106
+Elapsed time: 228.5274 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.798248374145724
+Max bound moment matrix: 0.8395850864668272
+Moment matrix bound width: 4.133671e-02
+
+[29/53] Starting N=33, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 397
+Solving moment SDP min...
+Total optimization variables: 2172
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #32 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Elapsed time: 236.6855 seconds
+Solving moment SDP max...
+Total optimization variables: 2172
+Elapsed time: 245.8825 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7983127351429756
+Max bound moment matrix: 0.8395680591536634
+Moment matrix bound width: 4.125532e-02
+
+[30/53] Starting N=34, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 409
+Solving moment SDP min...
+Total optimization variables: 2250
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #33 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Elapsed time: 269.2606 seconds
+Solving moment SDP max...
+Total optimization variables: 2250
+Elapsed time: 267.0153 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7983649997396227
+Max bound moment matrix: 0.8395533573895819
+Moment matrix bound width: 4.118836e-02
+
+[31/53] Starting N=35, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 421
+Solving moment SDP min...
+Total optimization variables: 2316
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #34 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Elapsed time: 287.0284 seconds
+Solving moment SDP max...
+Total optimization variables: 2316
+Elapsed time: 285.9550 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7984121651397375
+Max bound moment matrix: 0.8395399932920029
+Moment matrix bound width: 4.112783e-02
+
+[32/53] Starting N=36, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 433
+Solving moment SDP min...
+Total optimization variables: 2394
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #35 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Elapsed time: 312.7681 seconds
+Solving moment SDP max...
+Total optimization variables: 2394
+Elapsed time: 310.7473 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7984552453049051
+Max bound moment matrix: 0.8395282203231489
+Moment matrix bound width: 4.107298e-02
+
+[33/53] Starting N=37, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 445
+Solving moment SDP min...
+Total optimization variables: 2460
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #36 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Elapsed time: 329.4114 seconds
+Solving moment SDP max...
+Total optimization variables: 2460
+Elapsed time: 332.8593 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7984996360384686
+Max bound moment matrix: 0.839517244661612
+Moment matrix bound width: 4.101761e-02
+
+[34/53] Starting N=38, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 457
+Solving moment SDP min...
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #38 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #39 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #40 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #41 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Total optimization variables: 2538
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #37 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Elapsed time: 385.9294 seconds
+Solving moment SDP max...
+Total optimization variables: 2538
+Elapsed time: 380.1039 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7985437621013253
+Max bound moment matrix: 0.8395073303324786
+Moment matrix bound width: 4.096357e-02
+
+[35/53] Starting N=39, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 469
+Solving moment SDP min...
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #42 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Total optimization variables: 2604
+Elapsed time: 420.3976 seconds
+Solving moment SDP max...
+Total optimization variables: 2604
+Elapsed time: 411.3285 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7985846528411464
+Max bound moment matrix: 0.8394978667073646
+Moment matrix bound width: 4.091321e-02
+
+[36/53] Starting N=40, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 481
+Solving moment SDP min...
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #43 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Total optimization variables: 2682
+Elapsed time: 481.9910 seconds
+Solving moment SDP max...
+Total optimization variables: 2682
+Elapsed time: 457.3440 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7986186527377017
+Max bound moment matrix: 0.8394892466252896
+Moment matrix bound width: 4.087059e-02
+
+[37/53] Starting N=41, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 493
+Solving moment SDP min...
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #44 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Total optimization variables: 2748
+Elapsed time: 520.1478 seconds
+Solving moment SDP max...
+Total optimization variables: 2748
+Elapsed time: 496.1250 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7986475771439834
+Max bound moment matrix: 0.8394811502451032
+Moment matrix bound width: 4.083357e-02
+
+[38/53] Starting N=42, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 505
+Solving moment SDP min...
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #45 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Total optimization variables: 2826
+Elapsed time: 735.0468 seconds
+Solving moment SDP max...
+Total optimization variables: 2826
+Elapsed time: 541.0557 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7986707896181959
+Max bound moment matrix: 0.8394738533457349
+Moment matrix bound width: 4.080306e-02
+
+[39/53] Starting N=43, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 517
+Solving moment SDP min...
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #46 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Total optimization variables: 2892
+Elapsed time: 585.7940 seconds
+Solving moment SDP max...
+Total optimization variables: 2892
+Elapsed time: 608.0004 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7986901422248976
+Max bound moment matrix: 0.8394669838084466
+Moment matrix bound width: 4.077684e-02
+
+[40/53] Starting N=44, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 529
+Solving moment SDP min...
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #47 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Total optimization variables: 2970
+Elapsed time: 673.5325 seconds
+Solving moment SDP max...
+Total optimization variables: 2970
+Elapsed time: 643.4195 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7987064260604048
+Max bound moment matrix: 0.8394608087553282
+Moment matrix bound width: 4.075438e-02
+
+[41/53] Starting N=45, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 541
+Solving moment SDP min...
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #48 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Total optimization variables: 3036
+Elapsed time: 712.4667 seconds
+Solving moment SDP max...
+Total optimization variables: 3036
+Elapsed time: 722.2111 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7987227693755605
+Max bound moment matrix: 0.839454962379348
+Moment matrix bound width: 4.073219e-02
+
+[42/53] Starting N=46, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 553
+Solving moment SDP min...
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #49 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Total optimization variables: 3114
+Elapsed time: 784.5867 seconds
+Solving moment SDP max...
+Total optimization variables: 3114
+Elapsed time: 822.1769 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7987390453619141
+Max bound moment matrix: 0.839449661218225
+Moment matrix bound width: 4.071062e-02
+
+[43/53] Starting N=47, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 565
+Solving moment SDP min...
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #50 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Total optimization variables: 3180
+Elapsed time: 828.0824 seconds
+Solving moment SDP max...
+Total optimization variables: 3180
+Elapsed time: 962.7782 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7987562721331514
+Max bound moment matrix: 0.8394445840499615
+Moment matrix bound width: 4.068831e-02
+
+[44/53] Starting N=48, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 577
+Solving moment SDP min...
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #51 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Total optimization variables: 3258
+Elapsed time: 879.2746 seconds
+Solving moment SDP max...
+Total optimization variables: 3258
+Elapsed time: 909.2763 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7987728171372641
+Max bound moment matrix: 0.8394399751359252
+Moment matrix bound width: 4.066716e-02
+
+[45/53] Starting N=49, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 589
+Solving moment SDP min...
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #52 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Total optimization variables: 3324
+Elapsed time: 924.1489 seconds
+Solving moment SDP max...
+Total optimization variables: 3324
+Elapsed time: 960.0378 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7987879750057348
+Max bound moment matrix: 0.8394355024497908
+Moment matrix bound width: 4.064753e-02
+
+[46/53] Starting N=50, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 601
+Solving moment SDP min...
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #53 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Total optimization variables: 3402
+Elapsed time: 1016.1344 seconds
+Solving moment SDP max...
+Total optimization variables: 3402
+Elapsed time: 1069.2772 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.798800220895126
+Max bound moment matrix: 0.8394313597912826
+Moment matrix bound width: 4.063114e-02
+
+[47/53] Starting N=51, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 613
+Solving moment SDP min...
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #54 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Total optimization variables: 3468
+Elapsed time: 1218.3601 seconds
+Solving moment SDP max...
+Total optimization variables: 3468
+Elapsed time: 1210.7198 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7988106150974834
+Max bound moment matrix: 0.8394273299648507
+Moment matrix bound width: 4.061671e-02
+
+[48/53] Starting N=52, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 625
+Solving moment SDP min...
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #55 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Total optimization variables: 3546
+Elapsed time: 1160.3889 seconds
+Solving moment SDP max...
+Total optimization variables: 3546
+Elapsed time: 1290.0264 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7988190411075095
+Max bound moment matrix: 0.8394236265163803
+Moment matrix bound width: 4.060459e-02
+
+[49/53] Starting N=53, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 637
+Solving moment SDP min...
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #56 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Total optimization variables: 3612
+Elapsed time: 1380.4935 seconds
+Solving moment SDP max...
+Total optimization variables: 3612
+Elapsed time: 1393.6120 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7988264336563143
+Max bound moment matrix: 0.8394200515425086
+Moment matrix bound width: 4.059362e-02
+
+[50/53] Starting N=54, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 649
+Solving moment SDP min...
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #57 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Total optimization variables: 3690
+Elapsed time: 1611.8444 seconds
+Solving moment SDP max...
+Total optimization variables: 3690
+Elapsed time: 1504.5068 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7988331459673043
+Max bound moment matrix: 0.8394167913179807
+Moment matrix bound width: 4.058365e-02
+
+[51/53] Starting N=55, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 661
+Solving moment SDP min...
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #58 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Total optimization variables: 3756
+Elapsed time: 1701.1382 seconds
+Solving moment SDP max...
+Total optimization variables: 3756
+Elapsed time: 1477.3018 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7988407271281824
+Max bound moment matrix: 0.8394136853711893
+Moment matrix bound width: 4.057296e-02
+
+[52/53] Starting N=56, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 673
+Solving moment SDP min...
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #59 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Total optimization variables: 3834
+Elapsed time: 1712.0932 seconds
+Solving moment SDP max...
+Total optimization variables: 3834
+Elapsed time: 1877.0240 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7988484486470688
+Max bound moment matrix: 0.8394108514481426
+Moment matrix bound width: 4.056240e-02
+
+[53/53] Starting N=57, J=1, g=1.3, index=0, eps=5e-01, NPA=1, scalar=True TI Block_diag
+Basis size: 685
+Solving moment SDP min...
+C:\Users\gtudurache\AppData\Local\Programs\Python\Python311\Lib\site-packages\cvxpy\problems\problem.py:173: UserWarning: Constraint #60 contains too many subexpressions. Consider vectorizing your CVXPY code to speed up compilation.
+  warnings.warn(f"Constraint #{i} contains too many subexpressions. "
+Total optimization variables: 3900
+Elapsed time: 1784.2291 seconds
+Solving moment SDP max...
+Total optimization variables: 3900
+Elapsed time: 1798.2258 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.7988563599713376
+Max bound moment matrix: 0.8394080777671222
+Moment matrix bound width: 4.055172e-02

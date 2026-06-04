@@ -1,0 +1,105 @@
+
+[1/8] Starting N=5, J=1, g=1.01, window center=-6.505065021789998, eps=8e-04, NPA=1
+Basis size: 61
+Solving moment SDP min...
+Total optimization variables: 156
+Elapsed time: 2.2029 seconds
+Solving moment SDP max...
+Total optimization variables: 156
+Elapsed time: 2.5733 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.6534532136235318
+Max bound moment matrix: 0.6544707096132985
+Moment matrix bound width: 1.017496e-03
+
+[2/8] Starting N=10, J=1, g=1.01, window center=-12.8824904251218, eps=7e-02, NPA=1
+Basis size: 121
+Solving moment SDP min...
+Total optimization variables: 522
+Elapsed time: 15.2908 seconds
+Solving moment SDP max...
+Total optimization variables: 522
+Elapsed time: 12.7420 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.5585232025953069
+Max bound moment matrix: 0.7252863525858743
+Moment matrix bound width: 1.667631e-01
+
+[3/8] Starting N=20, J=1, g=1.01, window center=-25.70320784776124, eps=2e-01, NPA=1
+Basis size: 241
+Solving moment SDP min...
+Total optimization variables: 1242
+Elapsed time: 67.4173 seconds
+Solving moment SDP max...
+Total optimization variables: 1242
+Elapsed time: 68.3148 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.5391871348430862
+Max bound moment matrix: 0.7379461397941999
+Moment matrix bound width: 1.987590e-01
+
+[4/8] Starting N=30, J=1, g=1.01, window center=-38.53851876680161, eps=3e-01, NPA=1
+Basis size: 361
+Solving moment SDP min...
+Total optimization variables: 1962
+Elapsed time: 207.3562 seconds
+Solving moment SDP max...
+Total optimization variables: 1962
+Elapsed time: 208.0793 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.5364064729703213
+Max bound moment matrix: 0.740902648095047
+Moment matrix bound width: 2.044962e-01
+
+[5/8] Starting N=35, J=1, g=1.01, window center=-44.957653907899754, eps=3e-01, NPA=1
+Basis size: 421
+Solving moment SDP min...
+Total optimization variables: 2316
+Elapsed time: 309.2658 seconds
+Solving moment SDP max...
+Total optimization variables: 2316
+Elapsed time: 311.5193 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.5358164628445411
+Max bound moment matrix: 0.7415667711628765
+Moment matrix bound width: 2.057503e-01
+
+[6/8] Starting N=40, J=1, g=1.01, window center=-51.37727741384086, eps=4e-01, NPA=1
+Basis size: 481
+Solving moment SDP min...
+Total optimization variables: 2682
+Elapsed time: 469.5145 seconds
+Solving moment SDP max...
+Total optimization variables: 2682
+Elapsed time: 473.2019 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.535434564954283
+Max bound moment matrix: 0.7420055623647036
+Moment matrix bound width: 2.065710e-01
+
+[7/8] Starting N=50, J=1, g=1.01, window center=-64.21739605287962, eps=4e-01, NPA=1
+Basis size: 601
+Solving moment SDP min...
+Total optimization variables: 3402
+Elapsed time: 936.0616 seconds
+Solving moment SDP max...
+Total optimization variables: 3402
+Elapsed time: 967.1709 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.5349877721788443
+Max bound moment matrix: 0.7425294728168382
+Moment matrix bound width: 2.075417e-01
+
+[8/8] Starting N=57, J=1, g=1.01, window center=-73.20590532112017, eps=5e-01, NPA=1
+Basis size: 685
+Solving moment SDP min...
+Total optimization variables: 3900
+Elapsed time: 1434.8942 seconds
+Solving moment SDP max...
+Total optimization variables: 3900
+Elapsed time: 1432.3160 seconds
+SCALING Results for NPA level 1 + nearest neighbours and scalar shell constraint TI Block_diag
+Min bound moment matrix: 0.5348063364572733
+Max bound moment matrix: 0.7427463133366932
+Moment matrix bound width: 2.079400e-01
+Total elapsed time: 6928.5558 seconds
